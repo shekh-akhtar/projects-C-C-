@@ -1,4 +1,4 @@
-//======================== Number Shifting Game ================================
+//======================== Number Puzzle Game ================================
 #include <stdio.h>
 #include <windows.h>
 #include <time.h>
@@ -193,7 +193,7 @@ void gameInfo()
     system("cls");
     SetColor(5);
     printf("                          ");
-    printf("MATRIX PUZZLE\n\n");
+    printf("NUMBER PUZZLE\n\n");
     printf("                        ");
     SetColor(6);
     printf("RULE OF THIS GAME\n\n");
